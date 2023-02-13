@@ -1,0 +1,7 @@
+Project license
+The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Project naming requirements
+Loves 533 is the name of the project. If you are thinking about manufacturing it, you are expected to prefix the name with a brand name in order to allow customers to distinguish the different manufacturers, e.g. “GoSpeedDrones Loves 533”. As a manufacturer you are also expected to denote the version number of the frame files that you have used as basis of the project, e.g. “GoSpeedDrones Loves 533 V1.0”.
+
+If you have forked the project, you need to append the name in order to avoid confusion between "Loves 533" and your project (i.e. Loves 533 very much). Accessories from the Loves 533 project also needs to be named with the entire prefix, e.g. “GoSpeedDrones Loves 533 FPV Camera Mount”. Unless the file is not compatible with certain versions of the frame, the compatible version number or version range also needs to be included in the name, e.g. “GoSpeedDrones FPV Camera Mount V1.0 - V2”.
